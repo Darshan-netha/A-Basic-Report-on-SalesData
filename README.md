@@ -24,19 +24,19 @@ The goal is to analyze a sales dataset and extract useful insights such as:
 File: sample_sales_data.xlsx
 Contains the following columns:
 
-Date – Order date
+* Date – Order date
 
-Product – Item purchased
+* Product – Item purchased
 
-Category – Product category
+* Category – Product category
 
-Region – Sales region
+* Region – Sales region
 
-Sales Amount – Total amount for the order
+* Sales Amount – Total amount for the order
 
-Units Sold – Number of units sold
+* Units Sold – Number of units sold
 
-Salesperson – Staff who handled the order
+* Salesperson – Staff who handled the order
 
 ---
 
