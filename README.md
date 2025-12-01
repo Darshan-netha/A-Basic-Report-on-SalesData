@@ -7,6 +7,7 @@ Author : Sudharshan Katakam
 ## Project Overview
 
 This project focuses on performing basic data analysis using Python and the pandas library.
+The goal is to work with a real dataset, perform simple calculations, and generate a clean report that highlights key business insights.
 The goal is to analyze a sales dataset and extract useful insights such as:
 
 * Total Sales Amount
