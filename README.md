@@ -18,3 +18,39 @@ Basic Summary Report
 This task helps build beginner-level data analysis skills using a real dataset.
 
 ---
+
+## Dataset Used
+
+File: sample_sales_data.xlsx
+Contains the following columns:
+
+Date – Order date
+
+Product – Item purchased
+
+Category – Product category
+
+Region – Sales region
+
+Sales Amount – Total amount for the order
+
+Units Sold – Number of units sold
+
+Salesperson – Staff who handled the order
+
+---
+
+## Key Learning Outcomes
+
+Loading Excel data using pandas.read_excel()
+
+Performing summation and grouping operations
+
+Identifying the best-selling product
+
+Creating simple text-based reports
+
+Strengthening fundamentals of pandas DataFrames
+
+---
+
