@@ -43,15 +43,15 @@ Contains the following columns:
 
 ## Key Learning Outcomes
 
-Loading Excel data using pandas.read_excel()
+* Loading Excel data using pandas.read_excel()
 
-Performing summation and grouping operations
+* Performing summation and grouping operations
 
-Identifying the best-selling product
+* Identifying the best-selling product
 
-Creating simple text-based reports
+* Creating simple text-based reports
 
-Strengthening fundamentals of pandas DataFrames
+* Strengthening fundamentals of pandas DataFrames
 
 ---
 
