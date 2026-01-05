@@ -6,16 +6,8 @@ Author : Sudharshan Katakam
 
 ## Project Overview
 
-This project focuses on performing basic data analysis using Python and the pandas library.
-The goal is to work with a real dataset, perform simple calculations, and generate a clean report that highlights key business insights and to extract useful insights such as:
-
-* Total Sales Amount
-
-* Best-Selling Product (based on units sold)
-
-* Basic Summary Report
-
-* This task helps build beginner-level data analysis skills using a real dataset.
+This project is part of Week 3: Introduction to Data Analysis – Working with Real Data.
+The objective of this project is to understand how data can be analyzed using Python and the pandas library.In this project, a sales dataset stored in a CSV file is loaded, explored, cleaned, and analyzed to extract meaningful insights such as total sales, average sales, and the best-selling product.This project introduces basic data analysis concepts that are commonly used in real-world applications..
 
 ---
 
@@ -24,19 +16,15 @@ The goal is to work with a real dataset, perform simple calculations, and genera
 File: sample_sales_data.xlsx
 Contains the following columns:
 
-* Date – Order date
+* Product – Name of the product sold
 
-* Product – Item purchased
+* Price – Price of a single unit
 
-* Category – Product category
+* Customer_ID – Unique identifier for each customer
 
-* Region – Sales region
+* Region – Region where the sale occurred
 
-* Sales Amount – Total amount for the order
-
-* Units Sold – Number of units sold
-
-* Salesperson – Staff who handled the order
+* Total_Sales – Total sales amount for the transaction
 
 ---
 
